@@ -1,3 +1,7 @@
+## 0.0.2 - 2026-07-24
+* Fork continuation maintained by [@z-z](https://github.com/z-z), forked from [Natizyskunk/vscode-sftp](https://github.com/Natizyskunk/vscode-sftp) (itself originally forked from [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp)). See [README.md](./README.md) for the full history.
+* Bump `ssh2` to v1.17.0.
+
 ## 1.16.3 - 2023-06-16
 * [#356] New Feature : Upload to all profiles (Pull request [#313](https://github.com/Natizyskunk/vscode-sftp/pull/313) from @wewawa vscode-sftp:create_multi_command).
 * [#357] Fix : Correcting Typo 'avaliable' => 'available' (Pull request [#343](https://github.com/Natizyskunk/vscode-sftp/pull/343) from @kjo-sdds vscode-sftp:develop).
