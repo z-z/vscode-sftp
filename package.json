@@ -1,6 +1,6 @@
 {
-  "name": "sftp",
-  "displayName": "SFTP",
+  "name": "zz-sftp",
+  "displayName": "SFTP by z-z",
   "description": "SFTP/FTP sync",
   "version": "0.0.2",
   "publisher": "Zaur",
