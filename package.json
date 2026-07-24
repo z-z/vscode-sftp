@@ -678,7 +678,7 @@
     "@types/vscode": "1.40",
     "@types/webpack-env": "1.16.3",
     "@types/yargs": "17.0.13",
-    "braces": ">=2.3.1",
+    "braces": ">=3.0.3",
     "glob-parent": ">=5.1.2",
     "jest": "^29.0.3",
     "json-schema": ">=0.4.0",
